@@ -1,0 +1,10 @@
+# * FROM
+# * WORKDIR
+# * COPY
+# * ADD
+# * RUN
+# * ENV
+# * EXPOSE
+# * USER
+# * CMD
+# * ENTRYPOINT
